@@ -12,7 +12,7 @@ qrText.addEventListener("input", handleQRText);
 sizes.addEventListener("change", handleSize);
 shareBtn.addEventListener("click", handleShare);
 
-const defaultUrl = "https://www.instagram.com/harsh_pandey9999/";
+const defaultUrl = "https://www.github.com/harsh-pandey9999/";
 let colorLight = "#fff",
   colorDark = "#000",
   text = defaultUrl,
