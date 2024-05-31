@@ -2,7 +2,7 @@
 
 Create, download and share QR Code!
 
-## [See live](https://codepen.io/hicoders/pen/OJEJXqy)
+## [See live](https://bansalqr.netlify.app/)
 
 # Screenshot
 
